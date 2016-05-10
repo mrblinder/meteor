@@ -1,0 +1,1 @@
+This folder contains projects developed for the Meteor stack by Yaron Blinder
